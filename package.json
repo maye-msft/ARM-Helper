@@ -1,0 +1,19 @@
+{
+  "name": "arm-helper",
+  "version": "1.0.0",
+  "description": "a tool to simplify the development of  Azure Resource Management(ARM) template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maye-msft/ARM-Helper.git"
+  },
+  "author": "maye-msft",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maye-msft/ARM-Helper/issues"
+  },
+  "homepage": "https://github.com/maye-msft/ARM-Helper#readme"
+}
